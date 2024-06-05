@@ -18,13 +18,13 @@ FOREIGN KEY (id_curso) references curso(id),
 
 )
 
- Create table:  Perfil(
+Create table:  Perfil(
 id int AUTO_INCREMENT PRIMARY KEY,
 Bibligrafia VARCHAR (100),
 correo VARCHAR (100),
 FOREIGN KEY (id_estudiante) references estudiante(id),
 
- )
+)
 
 
 Create table:  Profesor(
