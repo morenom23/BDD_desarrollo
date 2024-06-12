@@ -1,0 +1,39 @@
+[
+
+    {
+        "nombre": "empanada ricota y espinaca",
+        "dificultad": "baja",
+        "descripcion": "La ricota es una fuente de proteína de alto valor biológico y con un bajo aporte de grasas, sobretodo si eliges su versión magra",
+        "imagen": "https://cookpad.com/cl/recipe/images/2fa788e0089e50e2",
+        "peso": "30 gramos"
+        
+        
+    },
+    
+    {
+        "nombre": "empanada ranchera",
+        "dificultad": "media",
+        "descripcion": "La ranchera es una fuente de proteína de alto valor biológico y con un alto aporte de grasas, sobretodo afrodiciaca",
+        "imagen": "https://cookpad.com/cl/recipe/images/381a33197c8726be",
+        "peso": "30 gramos"
+        
+    },
+    {
+        "nombre": "empanada vegetariana",
+        "dificultad": "media",
+        "descripcion": "La vegetariana es una fuente de fibras naturales, bajo en grasa y sales",
+        "imagen": "https://cookpad.com/cl/recipe/images/aa2eb688646956d1",
+        "peso": "30 gramos"
+        
+    }
+    
+
+    
+    
+
+]
+
+
+
+
+

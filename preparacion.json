@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Ricota",
+        "profesor": "Luisa",
+        "apellido" : "sanchez",
+        "tiempo" : "50 min"
+      },
+    {
+        "preparacion": [
+
+        {
+            "paso1": " Pela y pica la cebollapara saltearla en una sartén con 1 cucharadita de aceite a fuego máximo. Una vez que transparente, baja el fuego a medio y añade dos cucharadas de agua caliente para levantar el fondo de cocción. Repite si el salteado se seca para que la cebolla se caramelice con sus propios azúcares. "
+            },
+
+
+            {
+            "paso2": "Cuando la cebolla esté Caramelizarretírala del fuego y déjala enfriar. Luego, mézclala con la ricota, que debe estar colada o escurrida para que tenga poco líquido. Condimenta al gusto con la nuez moscada, pimienta y queso rallado. "
+
+            },
+
+            {
+                "paso3": "Comienza a rellenar las empanadas agregando una cucharada de relleno en el centro Humedece el borde del disco y une los bordes opuestos retirando el airePuedes sellar y decorar haciendo algo de presión con el tenedor en el borde"
+            },
+
+            {
+                "paso4": "Ubica las empanadas de ricota sobre una asadera apta para horno engrasada con aceite o manteca. Cocínalas en el horno precalentado a 200-220 ºC es decirtemperatura máxima por unos 15 o 20 minutos hasta que estén bien doradas"
+            }
+
+
+        ]
+
+    },
+
+    {
+    "nombre": "Jamon",
+    "profesor": "camila",
+    "apellido" : "lopez",
+    "tiempo" : "50 min" ,
+    "cantidad": 14
+
+    },
+
+    {
+        "preparacion": [
+
+        {
+        "paso1": "Pelamos la cebolla y el morrón y cortamos en cubos y sofritamos.  "
+        },
+        {
+            "imagen": "https://cookpad.com/cl/step_attachment/images/af552d50771cffe5"
+        },
+
+
+        {
+        "paso2": "Luego añadimos la acelga previamente picada pequeña.Salpimentamos.Cocinamos por unos 5 minutos aprox.Retiramos del fuego. "
+        },
+
+        {
+        "imagen": "https://cookpad.com/cl/step_attachment/images/7655eaab158531bf"
+        },
+
+        {
+        "paso3": "Añadimos el jamón trozado pequeño, el queso rallado, la nuez moscada y un huevo.."
+        },
+
+        {
+        "imagen": "https://cookpad.com/cl/step_attachment/images/7655eaab158531bf"
+        },
+
+        {
+        "paso4": "Mezclamos todo muy bien y añadimos la ricotta, previamente pisada, si es muy compacta, la podemos aflojar con un poquito de leche.Pronto nuestro relleno.."
+        },
+
+        {
+        "imagen": "https://cookpad.com/cl/step_attachment/images/7655eaab158531bf"
+        }
+    
+        ]
+
+    },
+
+    {
+        "nombre": "Vegetariana",
+        "profesor": "Jose",
+        "apellido" : "Gomez",
+        "tiempo" : "50 min" ,
+        "cantidad": 14
+    
+        },
+    
+        {
+            "preparacion": [
+    
+            {
+            "paso1": "Lavar la espinaca y luego ponerla con agua caliente durante 20´, antes retirar la olla del fuego. Escurrir bien el ricotta y picar el jamón bien pequeño. Poner en un cuenco y añadir el queso Parmesano. Salpimentar y condimentar a gusto. Mezclar todo.  "
+            },
+            {
+                "imagen": "https://cookpad.com/cl/step_attachment/images/af552d50771cffe5"
+            },
+    
+    
+            {
+            "paso2": "Escurrir y secar con un paño la espinaca y picar muy pequeña. Mezclar con el queso y el jamón. "
+            },
+    
+            {
+            "imagen": "https://cookpad.com/cl/step_attachment/images/7655eaab158531bf"
+            },
+    
+            {
+            "paso3": "Rellenar las tapas, mojar el borde con un poquito y hacer mi repulgue. Poner en una fuente y pincelar con el huevo. Llevar a horno precalentado a 200ºC hasta que estén doradas."
+            },
+    
+            {
+            "imagen": "https://cookpad.com/cl/step_attachment/images/88077fd497819b21"
+            }
+    
+            ]
+    
+        }
+
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "nombre": "Ricota"
+    },
+
+    
+   {
+        "ingredientes": [
+                        {
+                        "ricota magra": "400 gramos",
+                        "imagen": "imagen2"
+                        },
+
+                        {
+                        "cebolla chica": "1",
+                        "imagen": "imagen3"
+                        },
+
+                        {
+                        "cucharadas soperas de queso rallado": "2",
+                        "imagen": "imagen3"
+
+                        },
+
+                        {
+                        "cucharada postre de nuez moscada": "1",
+                        "imagen": "imagen4"
+                        },
+                            
+                        {
+                        "pizca de pimienta": "1",
+                        "imagen": "imagen5"
+                        }
+            
+                            
+                    ]
+    },
+
+    {
+        "nombre": "Jamon"
+    },
+
+    {
+        "ingredientes": [
+                        {
+                        " espinacas frescas": "200 gramos"
+                        
+                        },
+
+                        {
+                        " queso ricotta": "100 gramos"
+                        
+                        },
+
+                        {
+                        "jamon": "100 gramos"
+                        
+
+                        },
+
+                        {
+                        "cebolla": "3/4"
+                        
+                        },
+                            
+                        {
+                        "pizca de pimienta": "1"
+                        
+                        },
+                        {
+                            "morron": "1/4"
+                        }
+            
+                            
+                    ]
+    },
+
+    {
+        "nombre": "Vegeariana"
+    },
+
+
+ 
+    {
+        "ingredientes": [
+                    {
+                    " espinacas frescas": "200 gramos"
+                    
+                    },
+ 
+                    {
+                    "  jamón cocido, de York": "300 gramos"
+                    
+                    },
+ 
+                    {
+                    "queso Parmesano en polvo": "4 cucharadas"
+                    
+                    },
+ 
+                    {
+                    " huevo para pintar": "1"
+                        
+                    },
+                        
+                    {
+                    "Jengibre molido": "1"
+                    
+                        }
+
+                    
+                ]
+    }
+
+]
