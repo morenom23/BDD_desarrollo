@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "666a23f3eea40e1a48f9fd97"
+  },
+  "fecha_produccion": "2024-05-10",
+  "tipo_cerveza": "ales",
+  "cantidad_produccion": 600,
+  "unidad_medida": "litros",
+  "line_producion": "1"
+},
+{
+  "_id": {
+    "$oid": "666a23f3eea40e1a48f9fd98"
+  },
+  "fecha_produccion": "2024-06-10",
+  "tipo_cerveza": "lager",
+  "cantidad_produccion": 400,
+  "unidad_medida": "litros",
+  "linea_producion": "2"
+},
+{
+  "_id": {
+    "$oid": "666a23f3eea40e1a48f9fd99"
+  },
+  "fecha_produccion": "2024-06-07",
+  "tipo_cerveza": "reeds",
+  "cantidad_produccion": 450,
+  "unidad_medida": "litros",
+  "linea_produccion": "3"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fda9"
+  },
+  "fecha_ventas": "2024-06-15",
+  "tipo_cerveza": "ales",
+  "cantidad_vendida": 150,
+  "precio_total": 2100,
+  "cliente": {
+    "nombre": "Ezequiel Moreno",
+    "email": "moreno@gmail.com",
+    "telefono": "3238016233",
+    "ciudad": "Medellin"
+  }
+},
+{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fdaa"
+  },
+  "fecha_ventas": "2024-06-13",
+  "tipo_cerveza": "lager",
+  "cantidad_vendida": 90,
+  "precio_total": 1080,
+  "cliente": {
+    "nombre": "Dario Morales",
+    "email": "dario@gmail.com",
+    "telefono": "3214762322",
+    "ciudad": "bogota"
+  }
+},
+{
+  "_id": {
+    "$oid": "666a325feea40e1a48f9fdab"
+  },
+  "fecha_ventas": "2024-06-15",
+  "tipo_cerveza": "reeds",
+  "cantidad_vendida": 130,
+  "precio_total": 1950,
+  "cliente": {
+    "nombre": "Juan Lopez",
+    "email": "juanl@gmail.com",
+    "telefono": "3202230990",
+    "ciudad": "Medellin"
+  }
+}]
